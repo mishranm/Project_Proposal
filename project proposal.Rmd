@@ -1,0 +1,22 @@
+---
+output: 
+  word_document:
+    reference_docx: genomic_proposal.docx
+---
+
+##Project Proposal
+##Narad Mishra
+##November 11, 2017
+
+## Brain Impairment; Resulting in Reduction of Expression of Emotion, Motivation, and Goal-Directed Behavior in Heroin Users.
+
+
+
+Importance of brain cells in regulating human activities are known to everyone. Nucleus accumbens, a region in the basal forebrain rostral to the preoptic area of the hypothalamus is responsible for regulating our emotion expression, motivation, and goal-directed behavior. These cells, if damaged or if affected by chemicals will have deteriorating effect in human behavior. Harmful drugs, such as cocaine, heroin, and other opioids are linked to having such damage on nucleus accumbens cells, which cause the individual to behave different than normal people. As my semester project, I want to compare the gene expression of heroin users with the normal population. Similar comparison has been done before with the data I am going to use (Hurd Yl, et.al. 2016).
+
+ 
+For this project, human genes are going to be used for comparison. The data for this project is taken from an experiment "Expression data from human nucleus accumbens in heroin users and controls" (Hurd Yl, et.al 2016). The geo-accession Id for the data is GSE87823 and platform GPL96 [HG-U133A]. It is an expression profiling by array, by Affymetrix Human Genome U133A array. The data consist of 49 samples, where 27 of the samples are from control group which are normal Caucasian population and 22 heroin users. The sample was collected at autopsy with 24 hours of death. 
+
+## Reference
+
+Hurd, YL. (2016, oct 13). Expression data from human nucleus accumbens in heroin users and controls. Retrieved from https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE87823
